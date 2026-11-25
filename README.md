@@ -8,6 +8,7 @@
 - `flags-png/` — 圆形国旗 PNG 版（256×256），由上面的 SVG 转换而来
 - `flags-v2/` — v2 版 PNG（256×256）：标准旗面居中裁圆，统一描边
 - `flags-v3/` — v3 版 PNG（256×256）：标准旗面圆角方形，统一描边（脚本现用这套）
+- `apps/` — 服务分组图标 PNG（256×256）：一键代理、国内直连、AI、YouTube、Google、GitHub、网络检测、Netflix、Spotify、Steam、Telegram、TikTok、Apple、Microsoft、其他地区（脚本现用这套）
 
 ## 使用（jsDelivr CDN）
 
