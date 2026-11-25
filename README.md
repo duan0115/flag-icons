@@ -7,11 +7,12 @@
 - `flags/` — 圆形国旗 SVG 原版，共 249 个
 - `flags-png/` — 圆形国旗 PNG 版（256×256），由上面的 SVG 转换而来
 - `flags-v2/` — v2 版 PNG（256×256）：标准旗面居中裁圆，统一描边
+- `flags-v3/` — v3 版 PNG（256×256）：标准旗面圆角方形，统一描边（脚本现用这套）
 
 ## 使用（jsDelivr CDN）
 
 ```
-https://cdn.jsdelivr.net/gh/duan0115/flag-icons@main/flags-v2/nl.png
+https://cdn.jsdelivr.net/gh/duan0115/flag-icons@main/flags-v3/nl.png
 https://cdn.jsdelivr.net/gh/duan0115/flag-icons@main/flags-png/nl.png
 https://cdn.jsdelivr.net/gh/duan0115/flag-icons@main/flags/nl.svg
 ```
